@@ -1,0 +1,40 @@
+{
+  "name": "hunk-compact-filenav",
+  "version": "0.1.0",
+  "description": "Hunk files pane that compacts the middle of deep directory paths",
+  "license": "MIT",
+  "author": "Richard Schoch",
+  "type": "module",
+  "keywords": [
+    "hunk",
+    "hunk-extension",
+    "diff",
+    "code-review",
+    "terminal"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rschoch/hunk-compact-filenav.git"
+  },
+  "homepage": "https://github.com/rschoch/hunk-compact-filenav#readme",
+  "bugs": "https://github.com/rschoch/hunk-compact-filenav/issues",
+  "hunk": {
+    "apiVersion": 16,
+    "extensions": [
+      "./index.tsx"
+    ]
+  },
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "node --experimental-strip-types --test test/*.test.ts"
+  },
+  "devDependencies": {
+    "@opentui/core": "^0.5.10",
+    "@opentui/react": "^0.5.10",
+    "@types/node": "^26.4.1",
+    "@types/react": "^19.2.18",
+    "hunkdiff": "^0.21.1",
+    "react": "^19.2.8",
+    "typescript": "^5.9.3"
+  }
+}

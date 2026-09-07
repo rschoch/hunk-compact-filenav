@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="381" height="547" viewBox="0 0 381 547" role="img">
+<rect width="381" height="547" rx="6" fill="#0d1117"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14.2">
+<rect x="18.60" y="10.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="27.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="44.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="61.00" width="8.60" height="17" fill="#bb8009"/>
+<rect x="27.20" y="61.00" width="344.00" height="17" fill="#272b31"/>
+<rect x="18.60" y="78.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="95.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="112.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="129.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="146.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="163.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="180.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="197.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="214.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="231.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="248.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="265.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="282.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="299.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="316.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="333.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="350.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="367.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="384.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="401.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="418.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="435.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="452.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="469.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="486.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="503.00" width="352.60" height="17" fill="#1e2329"/>
+<rect x="18.60" y="520.00" width="352.60" height="17" fill="#1e2329"/>
+<text x="27.20" y="39.50" fill="#adaeb1" textLength="120.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">documentation/</text>
+<text x="44.40" y="56.50" fill="#adaeb1" textLength="51.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">plans/</text>
+<text x="61.60" y="73.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="78.80" y="73.50" fill="#e6edf3" textLength="223.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">stock-reconciliation.md   </text>
+<text x="336.80" y="73.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+4</text>
+<text x="27.20" y="90.50" fill="#adaeb1" textLength="146.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">inventory-module/</text>
+<text x="44.40" y="107.50" fill="#adaeb1" textLength="34.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">src/</text>
+<text x="61.60" y="124.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">main/</text>
+<text x="78.80" y="141.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">java/</text>
+<text x="96.00" y="158.50" fill="#adaeb1" textLength="34.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">com/</text>
+<text x="113.20" y="175.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">acme/</text>
+<text x="130.40" y="192.50" fill="#adaeb1" textLength="51.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">depot/</text>
+<text x="147.60" y="209.50" fill="#adaeb1" textLength="86.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">warehouse/</text>
+<text x="164.80" y="226.50" fill="#adaeb1" textLength="51.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">stock/</text>
+<text x="182.00" y="243.50" fill="#adaeb1" textLength="68.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">service/</text>
+<text x="199.20" y="260.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="216.40" y="260.50" fill="#e6edf3" textLength="86.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockLeve…</text>
+<text x="311.00" y="260.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+5</text>
+<text x="336.80" y="260.50" fill="#fa8e89" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-2</text>
+<text x="199.20" y="277.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="216.40" y="277.50" fill="#e6edf3" textLength="86.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockRese…</text>
+<text x="311.00" y="277.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+5</text>
+<text x="336.80" y="277.50" fill="#fa8e89" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-1</text>
+<text x="199.20" y="294.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">A </text>
+<text x="216.40" y="294.50" fill="#e6edf3" textLength="86.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockRese…</text>
+<text x="328.20" y="294.50" fill="#77c185" textLength="25.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+20</text>
+<text x="61.60" y="311.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">test/</text>
+<text x="78.80" y="328.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">java/</text>
+<text x="96.00" y="345.50" fill="#adaeb1" textLength="34.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">com/</text>
+<text x="113.20" y="362.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">acme/</text>
+<text x="130.40" y="379.50" fill="#adaeb1" textLength="51.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">depot/</text>
+<text x="147.60" y="396.50" fill="#adaeb1" textLength="86.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">warehouse/</text>
+<text x="164.80" y="413.50" fill="#adaeb1" textLength="51.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">stock/</text>
+<text x="182.00" y="430.50" fill="#adaeb1" textLength="68.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">service/</text>
+<text x="199.20" y="447.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="216.40" y="447.50" fill="#e6edf3" textLength="86.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockLeve…</text>
+<text x="336.80" y="447.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+6</text>
+<text x="27.20" y="464.50" fill="#adaeb1" textLength="137.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">shipping-module/</text>
+<text x="44.40" y="481.50" fill="#adaeb1" textLength="34.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">src/</text>
+<text x="61.60" y="498.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">main/</text>
+<text x="78.80" y="515.50" fill="#adaeb1" textLength="43.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">java/</text>
+<text x="96.00" y="532.50" fill="#adaeb1" textLength="34.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">com/</text>
+</g></svg>

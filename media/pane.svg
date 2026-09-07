@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="321" height="292" viewBox="0 0 321 292" role="img">
+<rect width="321" height="292" rx="6" fill="#0d1117"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace" font-size="14.2">
+<rect x="18.60" y="10.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="27.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="44.00" width="8.60" height="17" fill="#bb8009"/>
+<rect x="27.20" y="44.00" width="283.80" height="17" fill="#272b31"/>
+<rect x="18.60" y="61.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="78.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="95.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="112.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="129.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="146.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="163.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="180.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="197.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="214.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="231.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="248.00" width="292.40" height="17" fill="#1e2329"/>
+<rect x="18.60" y="265.00" width="292.40" height="17" fill="#1e2329"/>
+<text x="18.60" y="22.50" fill="#adaeb1" textLength="258.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve"> 8 files · ctrl+p for built-in</text>
+<text x="27.20" y="39.50" fill="#adaeb1" textLength="172.00" lengthAdjust="spacingAndGlyphs" xml:space="preserve">documentation/plans/</text>
+<text x="35.80" y="56.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="53.00" y="56.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">stock-reconciliation.md</text>
+<text x="285.20" y="56.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+4</text>
+<text x="27.20" y="73.50" fill="#adaeb1" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">…/main/…/stock/service/</text>
+<text x="35.80" y="90.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="53.00" y="90.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockLevelService      </text>
+<text x="259.40" y="90.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+5</text>
+<text x="285.20" y="90.50" fill="#fa8e89" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-2</text>
+<text x="35.80" y="107.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="53.00" y="107.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockReservation       </text>
+<text x="259.40" y="107.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+5</text>
+<text x="285.20" y="107.50" fill="#fa8e89" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-1</text>
+<text x="35.80" y="124.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">A </text>
+<text x="53.00" y="124.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockReservationService</text>
+<text x="276.60" y="124.50" fill="#77c185" textLength="25.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+20</text>
+<text x="27.20" y="141.50" fill="#adaeb1" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">…/test/…/stock/service/</text>
+<text x="35.80" y="158.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="53.00" y="158.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockLevelServiceTest  </text>
+<text x="285.20" y="158.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+6</text>
+<text x="27.20" y="175.50" fill="#adaeb1" textLength="223.60" lengthAdjust="spacingAndGlyphs" xml:space="preserve">shipping-module/…/service/</text>
+<text x="35.80" y="192.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="53.00" y="192.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ShipmentDispatchService</text>
+<text x="285.20" y="192.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+7</text>
+<text x="27.20" y="209.50" fill="#adaeb1" textLength="103.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ui/src/apis/</text>
+<text x="35.80" y="226.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="53.00" y="226.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">stock.ts               </text>
+<text x="259.40" y="226.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+6</text>
+<text x="285.20" y="226.50" fill="#fa8e89" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-1</text>
+<text x="27.20" y="243.50" fill="#adaeb1" textLength="206.40" lengthAdjust="spacingAndGlyphs" xml:space="preserve">ui/src/components/stock/</text>
+<text x="35.80" y="260.50" fill="#d3ac5f" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">M </text>
+<text x="53.00" y="260.50" fill="#e6edf3" textLength="197.80" lengthAdjust="spacingAndGlyphs" xml:space="preserve">StockLevelChip.vue     </text>
+<text x="259.40" y="260.50" fill="#77c185" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">+4</text>
+<text x="285.20" y="260.50" fill="#fa8e89" textLength="17.20" lengthAdjust="spacingAndGlyphs" xml:space="preserve">-2</text>
+</g></svg>
